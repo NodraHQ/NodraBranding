@@ -1,0 +1,17 @@
+/* Paleta NDQuest - mesmos valores usados no site (nodrahq.com). */
+:root {
+  /* brand */
+  --ndquest-gold: #FEA203;
+  --ndquest-gold-light: #FFC24D;
+  --ndquest-navy-logo: #022043;
+  /* background */
+  --ndquest-bg: #071B30;
+  --ndquest-bg-alt: #0D2846;
+  --ndquest-surface: #123A5E;
+  /* paper */
+  --ndquest-paper: #F4EBDA;
+  --ndquest-paper-dark: #E2D2AB;
+  /* text */
+  --ndquest-text: #EAF2FA;
+  --ndquest-text-muted: #9FB4C9;
+}

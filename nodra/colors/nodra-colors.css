@@ -1,0 +1,26 @@
+/* Paleta Nodra - mesmos valores usados no site (nodrahq.com). */
+:root {
+  /* brand */
+  --nodra-primary: #4DA6FF;
+  --nodra-primary-light: #78BEFF;
+  --nodra-primary-dark: #2B82D9;
+  /* background */
+  --nodra-background: #06080D;
+  --nodra-background-secondary: #0B111A;
+  --nodra-background-tertiary: #111A26;
+  /* surface */
+  --nodra-surface-1: #0E1622;
+  --nodra-surface-2: #131D2A;
+  --nodra-surface-3: #182434;
+  /* border */
+  --nodra-border: #223246;
+  --nodra-border-light: #2E4763;
+  /* text */
+  --nodra-text: #EDF4FB;
+  --nodra-text-secondary: #A3B3C6;
+  --nodra-text-muted: #73869C;
+  /* state */
+  --nodra-success: #28C76F;
+  --nodra-warning: #FFB547;
+  --nodra-danger: #FF5E7A;
+}

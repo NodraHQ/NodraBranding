@@ -1,0 +1,6 @@
+{
+  "brand":      { "gold": "#FEA203", "gold-light": "#FFC24D", "navy-logo": "#022043" },
+  "background": { "bg": "#071B30", "bg-alt": "#0D2846", "surface": "#123A5E" },
+  "paper":      { "paper": "#F4EBDA", "paper-dark": "#E2D2AB" },
+  "text":       { "text": "#EAF2FA", "text-muted": "#9FB4C9" }
+}

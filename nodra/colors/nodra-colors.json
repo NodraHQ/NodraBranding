@@ -1,0 +1,8 @@
+{
+  "brand":      { "primary": "#4DA6FF", "primary-light": "#78BEFF", "primary-dark": "#2B82D9" },
+  "background": { "background": "#06080D", "background-secondary": "#0B111A", "background-tertiary": "#111A26" },
+  "surface":    { "surface-1": "#0E1622", "surface-2": "#131D2A", "surface-3": "#182434" },
+  "border":     { "border": "#223246", "border-light": "#2E4763" },
+  "text":       { "text": "#EDF4FB", "text-secondary": "#A3B3C6", "text-muted": "#73869C" },
+  "state":      { "success": "#28C76F", "warning": "#FFB547", "danger": "#FF5E7A" }
+}
